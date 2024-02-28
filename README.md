@@ -9,6 +9,7 @@ Analyze the effectiveness of Diwali 2023 and Sankranti 2024 promotions.
 Provide actionable insights to improve future promotional strategies.
 
 Methodology:
+
 Data Analysis: Thoroughly examine the provided datasets to understand sales trends during the promotional periods.
 Dashboard Creation: Develop a user-friendly dashboard to visualize key metrics and findings.
 Presentation: Compile insights into a compelling presentation for the Sales Director.
