@@ -5,7 +5,6 @@ Background:
 AtliQ Mart, a leading retail giant, ran significant promotions across its 50 stores in the southern region of India during the Diwali 2023 and Sankranti 2024 festive seasons. The Sales Director, Bruce Haryali, seeks insights into the effectiveness of these promotions to inform future strategies. Tony Sharma, the Analytics Manager, has entrusted Peter Pandey, a data analyst, with this task.
 
 Objectives:
-
 Analyze the effectiveness of Diwali 2023 and Sankranti 2024 promotions.
 Provide actionable insights to improve future promotional strategies.
 
