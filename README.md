@@ -11,7 +11,9 @@ Provide actionable insights to improve future promotional strategies.
 Methodology:
 
 Data Analysis: Thoroughly examine the provided datasets to understand sales trends during the promotional periods.
+
 Dashboard Creation: Develop a user-friendly dashboard to visualize key metrics and findings.
+
 Presentation: Compile insights into a compelling presentation for the Sales Director.
 
 Key Insights:
